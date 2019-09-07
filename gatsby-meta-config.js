@@ -5,10 +5,10 @@ module.exports = {
   introduction: `Seorang blogger amatiran. Tadinya mau jadi playboy, tapi masih kurang ganteng. Kalo blogger nggak ada syarat ganteng.`,
   siteUrl: `https://gatsby-starter-bee.netlify.com`, // Your blog site url
   social: {
-    twitter: `https://twitter.com/aradechoco`, // Your Twitter account
-    github: `https://github.com/aradechoco`, // Your GitHub account
+    twitter: `aradechoco`, // Your Twitter account
+    github: `aradechoco`, // Your GitHub account
     medium: ``, // Your Medium account
-    facebook: `https://www.facebook.com/ngefly420`, // Your Facebook account
+    facebook: `ngefly420`, // Your Facebook account
   },
   icon: `content/assets/felog.png`, // Add your favicon
   keywords: [`blog`],
