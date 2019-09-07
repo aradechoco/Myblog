@@ -6,8 +6,6 @@ lang: 'en'
 
 # About me
 
-<div align="center">
-
 Seorang blogger amatiran. Tadinya mau jadi playboy, tapi masih kurang ganteng. Kalo blogger nggak ada syarat ganteng. 😎 .
 
 Saya membuat situs web ini untuk tempat mendokumentasikan apa saja.
