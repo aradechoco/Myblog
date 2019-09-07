@@ -1,7 +1,7 @@
 ---
-title: 'Third Post'
+title: 'Post Pertama'
 date: 2019-2-1 16:21:13
-category: 'Random'
+category: 'Blog'
 ---
 
 Hello World 
@@ -10,7 +10,7 @@ Ini adalah postingan pertama 😄
 
 Blog ini di buat dan berjalan di Gatsby, React, dan Node.js,,
 
-Filtur Blog ini...
+Dalam template Blog ini ......
 
 - 💄 Code highlight with Fira Code font
 - 🧙 CLI Tool
