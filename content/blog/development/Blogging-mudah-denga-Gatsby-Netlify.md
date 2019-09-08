@@ -10,7 +10,7 @@ Gatsby adalah kerangka kerja sumber terbuka dan gratis berdasarkan React yang me
 
 ## Kenapa Gatsby?
 
-Ada [banyak generator situs statis] (https://www.staticgen.com/) untuk dipilih. Jekyll, Hugo, Next, dan Hexo adalah beberapa yang besar, dan beberapa yang menarik seperti Eleventy juga. Pada awalnya, saya pikir hanya ingin sesuatu yang dapat menghasilkan HTML secara langsung dan aplikasi JavaScript yang berat tidak mungkin lebih baik daripada HTML dan CSS sederhana.
+Ada [banyak generator situs statis](https://www.staticgen.com/) untuk dipilih. Jekyll, Hugo, Next, dan Hexo adalah beberapa yang besar, dan beberapa yang menarik seperti Eleventy juga. Pada awalnya, saya pikir hanya ingin sesuatu yang dapat menghasilkan HTML secara langsung dan aplikasi JavaScript yang berat tidak mungkin lebih baik daripada HTML dan CSS sederhana.
 
 Namun, saya sadari bahwa SSG seperti Gatsby memanfaatkan kekuatan pemisahan kode / data, pra-load, pra-cache, pengoptimalan gambar, dan segala macam peningkatan kinerja yang akan sulit atau tidak mungkin dilakukan dengan HTML biasa.
 
@@ -22,9 +22,9 @@ Namun, saya sadari bahwa SSG seperti Gatsby memanfaatkan kekuatan pemisahan kode
 - Bundling and minification - kode diperkecil, dibundel, dan disajikan.
 - Server side ditampilkan pada waktu pembuatan
 
-Gatsby juga menggunakan GraphQL untuk mengimpor data secara default, bahkan jika Anda tidak tahu tata bahasanya, Anda dapat secara intuitif memahami kueri terstruktur sehingga Anda dapat mengembangkannya tanpa belajar. Halaman dapat dikembangkan seperti komponen, dan pada dasarnya memberikan kemampuan untuk memasukkan data ke dalam komponen.
+Gatsby juga menggunakan [GraphQL](https://graphql.org/) untuk mengimpor data secara default, bahkan jika Anda tidak tahu tata bahasanya, Anda dapat secara intuitif memahami kueri terstruktur sehingga Anda dapat mengembangkannya tanpa belajar. Halaman dapat dikembangkan seperti komponen, dan pada dasarnya memberikan kemampuan untuk memasukkan data ke dalam komponen.
 
-Tunggu apa lagi, ayo buat!. Klik tautan ini https://www.gatsbyjs.org/starters/?v=2
+Tunggu apa lagi, ayo buat!. Klik [tautan ini](https://www.gatsbyjs.org/starters/?v=2)
 
 # Getting Started 😎
 
