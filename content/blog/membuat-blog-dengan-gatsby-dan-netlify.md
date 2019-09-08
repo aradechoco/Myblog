@@ -1,6 +1,6 @@
 ---
 title: 'Blogging mudah dengan Gatsby + Netlify'
-date: 2019-8-8 09:17:13
+date: '2019-8-8'
 category: 'Article'
 ---
 
