@@ -7,11 +7,9 @@ category: 'Gatsby'
 
 ## Kenapa Gatsby?
 
-Ada [banyak generator situs statis] (https://www.staticgen.com/) untuk dipilih. Jekyll, Hugo, Next, dan Hexo adalah beberapa yang besar, dan aku pernah mendengar beberapa yang menarik seperti Eleventy juga. Pada awalnya, saya pikir saya hanya ingin sesuatu yang menghasilkan HTML langsung, dan aplikasi JavaScript yang berat tidak mungkin lebih baik daripada HTML dan CSS sederhana.
+Ada ['banyak generator situs statis'] (https://www.staticgen.com/) untuk dipilih. Jekyll, Hugo, Next, dan Hexo adalah beberapa yang besar, dan saya pernah mendengar beberapa yang menarik seperti Eleventy juga. Pada awalnya, saya pikir saya hanya ingin sesuatu yang menghasilkan HTML langsung, dan aplikasi JavaScript yang berat tidak mungkin lebih baik daripada HTML dan CSS sederhana.
 
 Namun, saya menyadari bahwa SSG seperti Gatsby memanfaatkan kekuatan pemisahan kode / data, pra-pemuatan, pra-cache, pengoptimalan gambar, dan segala macam peningkatan kinerja yang akan sulit atau tidak mungkin dilakukan dengan HTML lurus.
-
-Karena saya terutama menulis JavaScript hari ini, saya pasti menginginkan SSG yang berjalan di Node.js, dan jika menggunakan React, bahkan lebih baik. Saya menguji beberapa situs yang berjalan di Gatsby dan ya - mereka cepat. Sangat cepat.
 
 Beberapa hal yang saya sukai dari Gatsby:
 
@@ -23,11 +21,11 @@ Beberapa hal yang saya sukai dari Gatsby:
 - Siapa pun dapat mengedit posting saya! Jika Anda melihat kesalahan ketik atau kesalahan, cukup garpu repo dan lakukan perubahan!
 - Setiap kali saya mendorong ke repo, situs akan secara otomatis digunakan.
 
-Sangat sedikit kode boilerplate diperlukan untuk memulai dengan Gatsby. Saya baru saja memotong [Gatsby Advanced Starter] (https://github.com/vagr9k/gatsby-advanced-starter/), sebuah yayasan yang sangat sederhana, minimalis, sepenuhnya bebas-UI menurut hati saya sendiri, dan mulai bekerja dengannya.
+Sangat sedikit kode boilerplate diperlukan untuk memulai dengan Gatsby. Saya baru saja memotong ['Gatsby Advanced Starter'] (https://github.com/vagr9k/gatsby-advanced-starter/), sebuah yayasan yang sangat sederhana, minimalis, sepenuhnya bebas-UI menurut saya sendiri, dan mulai bekerja dengannya.
 
 Sejauh ini, satu-satunya hal yang saya tidak suka adalah bahwa Gatsby tampaknya mengubah zoom situs setelah membangun entah bagaimana, jadi gaya saya tidak sama persis.
 
-Saya harus menyebutkan bahwa saya memindahkan host saya dari NearlyFreeSpeech.net ke [Netlify] (https://www.netlify.com/), yang luar biasa. Saya benar-benar tidak bisa mengatakan cukup tentang mereka. Saya sangat terkesan dengan betapa cepat dan mudahnya mengatur apa pun yang saya inginkan.
+Saya harus menyebutkan bahwa saya memindahkan host saya dari NearlyFreeSpeech.net ke ['Netlify'] (https://www.netlify.com/), yang luar biasa. Saya benar-benar tidak bisa mengatakan cukup tentang mereka. Saya sangat terkesan dengan betapa cepat dan mudahnya mengatur apa pun yang saya inginkan.
 
 ## Proses migrasi 
 
