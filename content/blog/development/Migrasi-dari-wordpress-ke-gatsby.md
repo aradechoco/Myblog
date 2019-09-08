@@ -1,7 +1,7 @@
 ---
 title: 'Migrasi Dari Wordpress ke Gatsby'
 date: 2019-8-8 09:17:13
-category: 'Gatsby' 'Wordpress'
+category: 'Gatsby'
 ---
 
 
