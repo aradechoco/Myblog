@@ -1,7 +1,7 @@
 ---
-title: 'Post Pertama'
+title: 'How to started with git'
 date: 2019-2-1 16:21:13
-category: 'Blog'
+category: 'Git'
 ---
 Git is a difficult subject to tackle for self-taught web developers who didn't learn to code with a team. If you've always worked alone and want an explanation of how to get started with Git, this tutorial is for you.
 
@@ -300,5 +300,7 @@ git pull origin master
 Now, when you go to http://domain.com/project-remote, all the files are there, and the site is live!
 
 I wanted to write the article I wish I had in front of me when I tried to teach myself everything at once (Git, command line, and SSH) and ran into pitfalls.
+
+Source : https://www.taniarascia.com/getting-started-with-git/
 
 
