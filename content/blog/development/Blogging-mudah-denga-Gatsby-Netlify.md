@@ -24,4 +24,39 @@ Namun, saya sadari bahwa SSG seperti Gatsby memanfaatkan kekuatan pemisahan kode
 
 Gatsby juga menggunakan GraphQL untuk mengimpor data secara default, bahkan jika Anda tidak tahu tata bahasanya, Anda dapat secara intuitif memahami kueri terstruktur sehingga Anda dapat mengembangkannya tanpa belajar. Halaman dapat dikembangkan seperti komponen, dan pada dasarnya memberikan kemampuan untuk memasukkan data ke dalam komponen.
 
-Jika masih terlihat rumit, ayo buat! Gatsby adalah tempat bagi pengembang. Klik tautan ini https://www.gatsbyjs.org/starters/?v=2
+Tunggu apa lagi, ayo buat!. Klik tautan ini https://www.gatsbyjs.org/starters/?v=2
+
+# Getting Started 😎
+
+##  Create a Gatsby site.
+
+```sh
+# create a new Gatsby site using the blog starter
+$ npx gatsby new my-blog-starter https://github.com/gatsbyjs/gatsby-starter-blog
+```
+
+> Jika kamu tidak menggunakan `npx`, following [Gatsby Getting Started](https://www.gatsbyjs.org/docs/quick-start)
+
+```sh
+$ npm install -g gatsby-cli
+$ gatsby new my-blog-starter https://github.com/gatsbyjs/gatsby-starter-blog
+```
+
+##  Start developing.
+
+```sh
+$ cd my-blog-starter/
+$ npm start
+# open localhost:8000
+```
+## 5. Publish with [netlify](https://netlify.com)
+
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/gatsbyjs/gatsby-starter-blog)
+
+:bulb: jika Kamu ingin menggunakan halaman github, tambahkan skrip berikut ke package.json
+
+```json
+"scripts": {
+    "deploy": "gatsby build && gh-pages -d public -b master -r 'git@github.com:${your github id}/${github page name}.github.io.git'"
+}
+```
