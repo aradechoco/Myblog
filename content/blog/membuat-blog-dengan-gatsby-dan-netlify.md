@@ -6,11 +6,11 @@ category: 'Article'
 
 ## Gatsby?
 
-Gatsby adalah kerangka kerja sumber terbuka dan gratis berdasarkan React yang membantu pengembang membangun situs web dan aplikasi yang sangat cepat - Gatsby 
+Gatsby adalah framework open source yang gratis berdasar React yang membantu developer membangun situs web dan aplikasi yang sangat cepat - Gatsby 
 
 ## Kenapa Gatsby?
 
-Ada [banyak generator situs statis](https://www.staticgen.com/) untuk dipilih. Jekyll, Hugo, Next, dan Hexo adalah beberapa yang besar, dan beberapa yang menarik seperti Eleventy juga. Pada awalnya, saya pikir hanya ingin sesuatu yang dapat menghasilkan HTML secara langsung dan aplikasi JavaScript yang berat tidak mungkin lebih baik daripada HTML dan CSS sederhana.
+Ada [banyak generator situs statis](https://www.staticgen.com/) untuk dipilih. Jekyll, Hugo, Next, dan Hexo adalah beberapa yang terkenal dan beberapa yang menarik seperti Eleventy juga. Pada awalnya, saya hanya ingin membuat sesuatu yang dapat menghasilkan HTML secara langsung dan JavaScript app yang berat tidak mungkin lebih baik daripada HTML dan CSS sederhana.
 
 Namun, saya sadari bahwa SSG seperti Gatsby memanfaatkan kekuatan pemisahan kode / data, pra-load, pra-cache, pengoptimalan gambar, dan segala macam peningkatan kinerja yang akan sulit atau tidak mungkin dilakukan dengan HTML biasa.
 
