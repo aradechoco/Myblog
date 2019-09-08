@@ -1,6 +1,6 @@
 ---
 title: 'Post Pertama'
-date: '2019-2-1'
+date: 2019-2-1 19:21:13
 category: 'Personal'
 ---
 
