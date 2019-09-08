@@ -13,14 +13,14 @@ Saya membuat situs web ini untuk tempat mendokumentasikan apa saja.
 ### Kontak
 
 - ** Email **: [aradechoco@gmail.com] 
-- ** GitHub **: [aradechoco] (https://github.com/aradechoco)
-- ** Twitter **: [aradechoco] (https://twitter.com/aradechoco)
+- ** GitHub **: [aradechoco](https://github.com/aradechoco)
+- ** Twitter **: [aradechoco](https://twitter.com/aradechoco)
 
 
 ## Projects
 
-- [Asnonepage] (https://www.asnonepage.com) - Blog Gado2
-- [matakaki] (https://www.matakaki.com) - Blog Wisata
+- [Asnonepage](https://www.asnonepage.com) - Blog Gado2
+- [matakaki](https://www.matakaki.com) - Blog Wisata
 
 
 ## Musik
@@ -33,9 +33,11 @@ Saya membuat situs web ini untuk tempat mendokumentasikan apa saja.
 ## Sedang Menggunakan
 
 - ** Komputer: ** Pc i5 9400f VGA Gtx 980ti Ram 16Gb 
-- ** Hosting: ** [Netlify] (https://netlify.com) (blog)
-- ** Editor: ** [Visual Studio Code] (https://code.visualstudio.com/)
-- ** Generator Situs Statis: ** [Gatsby] (https://gatsbyjs.org)
-- ** Sintaks Highlighting: ** [PrismJS] (http://prismjs.com/)
+- ** Hosting: ** [Netlify](https://netlify.com) (blog)
+- ** Editor: ** [Visual Studio Code](https://code.visualstudio.com/)
+- ** Generator Situs Statis: ** [Gatsby](https://gatsbyjs.org)
+- ** Sintaks Highlighting: ** [PrismJS](http://prismjs.com/)
 
 </div>
+
+## [Back To Home](https://aradechoco.com)
