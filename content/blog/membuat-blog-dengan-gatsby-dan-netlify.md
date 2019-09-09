@@ -30,25 +30,25 @@ Tunggu apa lagi, ayo buat!. Klik [tautan ini](https://www.gatsbyjs.org/starters/
 
 ##  Create a Gatsby site.
 
-💻 Buka Commant Prom 💻
+💻 Buka CLI 💻
 
 ```sh
-# create a new Gatsby site using the blog starter
-$ npx gatsby new my-blog-starter https://github.com/gatsbyjs/gatsby-starter-blog
+create a new Gatsby site using the blog starter
+npx gatsby new my-blog-starter https://github.com/gatsbyjs/gatsby-starter-blog
 ```
 
 > Jika kamu tidak menggunakan `npx`, following [Gatsby Getting Started](https://www.gatsbyjs.org/docs/quick-start)
 
 ```sh
-$ npm install -g gatsby-cli
-$ gatsby new my-blog-starter https://github.com/gatsbyjs/gatsby-starter-blog
+npm install -g gatsby-cli
+gatsby new my-blog-starter https://github.com/gatsbyjs/gatsby-starter-blog
 ```
 
 ##  Start developing.
 
 ```sh
-$ cd my-blog-starter/
-$ gatsby develop
+cd my-blog-starter/
+gatsby develop
 ```
 
 Buka source code dan mulai mengedit!
@@ -56,6 +56,8 @@ Buka source code dan mulai mengedit!
 Situs Anda sekarang berjalan di http: // localhost: 8000!
 
 Catatan: Kamu akan melihat tautan kedua: http: // localhost: 8000 / ___ graphql. Ini adalah tools yang dapat kamu gunakan untuk bereksperimen dengan menanyakan data kamu. Pelajari lebih lanjut tentang menggunakan tools ini di [tutorial Gatsby](https://www.gatsbyjs.org/tutorial/part-five/#introducing-graphiql).
+
+![](./images/image.png)
 
 Buka direktori my-blog-starter di editor kode favorit kamu saya menggunakan [Visual Studio Code](https://code.visualstudio.com/) dan edit src / pages / index.js. Simpan perubahan dan reaload browser kamu! Viola! Situs Kamu sudah bisa di akses 😎
 
