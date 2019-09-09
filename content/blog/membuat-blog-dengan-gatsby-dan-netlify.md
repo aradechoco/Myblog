@@ -30,7 +30,7 @@ Tunggu apa lagi, ayo buat!. Klik [tautan ini](https://www.gatsbyjs.org/starters/
 
 ##  Create a Gatsby site.
 
-💻 Buka CLI 💻
+💻 Buka `CLI` 💻
 
 ```sh
 create a new Gatsby site using the blog starter
@@ -53,9 +53,11 @@ gatsby develop
 
 Buka source code dan mulai mengedit!
 
-Situs Anda sekarang berjalan di http: // localhost: 8000!
+Situs Anda sekarang berjalan di `http: // localhost: 8000`
 
-Catatan: Kamu akan melihat tautan kedua: http: // localhost: 8000 / ___ graphql. Ini adalah tools yang dapat kamu gunakan untuk bereksperimen dengan menanyakan data kamu. Pelajari lebih lanjut tentang menggunakan tools ini di [tutorial Gatsby](https://www.gatsbyjs.org/tutorial/part-five/#introducing-graphiql).
+Catatan: Kamu akan melihat tautan kedua: `http: // localhost: 8000 / ___ graphql` 
+
+Ini adalah tools yang dapat kamu gunakan untuk bereksperimen dengan menanyakan data kamu. Pelajari lebih lanjut tentang menggunakan tools ini di [tutorial Gatsby](https://www.gatsbyjs.org/tutorial/part-five/#introducing-graphiql).
 
 ![](./images/image.png)
 
