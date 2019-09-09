@@ -6,6 +6,8 @@ category: 'Article'
 
 ## Gatsby?
 
+![](./images/gatsby.png)
+
 Gatsby adalah framework open source yang gratis berdasar React yang membantu developer membangun situs web dan aplikasi yang sangat cepat - Gatsby 
 
 ## Kenapa Gatsby?
@@ -74,3 +76,10 @@ Buka direktori my-blog-starter di editor kode favorit kamu saya menggunakan [Vis
     "deploy": "gatsby build && gh-pages -d public -b master -r 'git@github.com:${your github id}/${github page name}.github.io.git'"
 }
 ```
+
+Jika ada yang mau di tamyakan silahkan ketik di kolom komentar ya 👌
+
+## Referensi 
+[Gatsby](https://www.gatsbyjs.org/docs/quick-start)
+
+[Github](https://github.com/gatsbyjs/gatsby-starter-blog)
