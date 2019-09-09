@@ -80,6 +80,6 @@ Buka direktori my-blog-starter di editor kode favorit kamu saya menggunakan [Vis
 Jika ada yang mau di tamyakan silahkan ketik di kolom komentar ya 👌
 
 ## Referensi 
-[Gatsby](https://www.gatsbyjs.org/docs/quick-start)
+[Gatsby](https://www.gatsbyjs.org/docs/quick-start) - Quick Start
 
-[Github](https://github.com/gatsbyjs/gatsby-starter-blog)
+[Github](https://github.com/gatsbyjs/gatsby-starter-blog) - Gatsby Starter Blog
