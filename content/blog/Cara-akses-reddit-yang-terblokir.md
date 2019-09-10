@@ -6,18 +6,18 @@ category: 'Article'
 
 ![](./images/reddit.png)
 
-Mengakses [Reddit](https://en.wikipedia.org/wiki/Reddit) dari Indonesia bisa dengan VPN, bypass situs web yang diblokir melalui berkas hosts, atau memakai DNSCrypt.
+Mengakses [Reddit](https://www.reddit.com/) dari Indonesia bisa dengan VPN, bypass situs web yang diblokir melalui berkas hosts, atau memakai DNSCrypt.
 
 Reddit sendiri merupakan sebuah situs komunitas yang menurut saya sangat bermanfaat, karena sebelum itu saya sering mengunjungi situs reddit hanya untuk mecari sebuah informasi terbaru mengenai teknologi.
 
 Bagaimana cara agar saya tetap dapat mengakses situs reddit walaupun sudah di blokir oleh provider indonesia.
 
-## Dengan VPN
+# Dengan VPN
 VPN yang bagus sampai saat ini adalah ProtonVPN (Gratis) dan Private Internet Access (Berbayar). Mereka mempunyai kebijakan privasi yang bagus. Kamu harus membuat dan mendaftar akun dahulu untuk menggunakannya.
 
-## Melalui hosts
+# Melalui hosts
 
-# Windows 
+## Windows 
 Cara ini mudah tanpa harus terkoneksi ke layanan lain, seperti VPN. Tetapi kamu harus mempunyai hak akses ke Sistem Operasimu.
 
 Hal yang cukup sulit adalah menyunting berkas hosts di ponsel. Kamu tidak mempunyai hak akses root di Sistem Operasi Android atau iOS bawaan dari pabrik, kamu harus me-root atau jailbreak ponselmu.
@@ -85,7 +85,7 @@ Copas script dibawah ini, tepat dibawah tulisan `127.0.0.1 localhost`
 151.101.129.140  www.reddituploads.com
 ##---
 ```
-# Android
+## Android
 Pastikan android anda sudah diroot.
 Download aplikasi root explorer apk.
 Setelah itu anda cari file hosts di folder `system/etc/`
@@ -149,7 +149,7 @@ Anda Edit file tersebut dengan text di bawah ini, dan letakkan tepat dibawah `12
 ##---
 ```
 
-#Linux
+## Linux
 Anda buka terminal, dan edit file hosts yang ada di dalam etc caranya dengan memasukkan command ini. `$ sudo nano /etc/hosts`
 Lalu copy dan paste teks dibawah ini tepat di bawah atau sesudah teks `127.0.0.1 localhost`
 
@@ -211,6 +211,6 @@ Lalu copy dan paste teks dibawah ini tepat di bawah atau sesudah teks `127.0.0.1
 ##---
 ```
 
-## Dengan DNSCrypt
+# Dengan DNSCrypt
 DNSCrypt juga adalah pilihan yang bagus. Ia akan mengenkripsi lalu lintas DNS antara pengguna dan DNS Resolver. Ini akan mengurangi pelacakan dari ISP. Tetapi kamu harus menggunakan hak akses root untuk menjalankan ini.
 Opsi yang pertama dan ketiga yang membuat jaringan menjadi lebih aman adalah nilai tambah. Opsi yang kedua adalah cara yang cukup mudah untuk mengakses Reddit untuk penggunaan sehari-hari.
